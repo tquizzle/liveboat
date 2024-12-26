@@ -23,14 +23,6 @@ https://www.reddit.com/r/chatgpt/top/.rss?sort=top&t=day&limit=6 "~Reddit - Chat
 https://www.reddit.com/r/linuxserver/top/.rss?sort=top&t=day&limit=6 "~Reddit - LinuxServer" dev
 https://www.reddit.com/r/raspberry_pi/top/.rss?sort=top&t=day&limit=6 "~Reddit - Raspberry Pi" dev
 https://www.reddit.com/r/selfhosted/top/.rss?sort=top&t=day&limit=6 "~Reddit - Selfhosted" dev
-https://benhoyt.com/writings/rss.xml "~Dev - Ben Hoyt" dev
-https://highscalability.com/feed "~Dev - High Scalability" dev
-https://blog.cleancoder.com/atom.xml "~Dev - Uncle Bob" dev
-https://bitfieldconsulting.com/posts?format=rss "~Dev - Bitfield" dev
-https://transactional.blog/feed.xml "~Dev - Transactional" dev
-https://newsletter.systemdesign.one/feed "~Dev - System Design Newsletter" dev
-https://blog.algomaster.io/feed "~Dev - Algomaster" dev
-https://vnotes.pages.dev/atom.xml "~Dev - vladkens" dev
 
 https://techcrunch.com/feed/ ! tech
 http://rss.slashdot.org/Slashdot/slashdotMain ! tech
@@ -48,7 +40,6 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ "~N
 https://www.youtube.com/feeds/videos.xml?channel_id=UCIALMKvObZNtJ6AmdCLP7Lg "~News - Bloomberg " news
 https://www.youtube.com/feeds/videos.xml?channel_id=UChqUTb7kYRX8-EiaN3XFrSQ "~News - Reuters " news
 https://www.reddit.com/r/worldnews/top/.rss?sort=top&t=day&limit=10 "~News - Reddit - World News" news
-https://www.reddit.com/r/europe/top/.rss?sort=top&t=day&limit=10 "~News - Reddit - Europe" news
 
 https://access.acast.com/rss/c939f8d1-c4bc-478e-8bb9-e5343f9a7ab5/default "~Podcast - HistoryHit" podcast
 https://changelog.com/gotime/feed "~Podcast - Go Time" podcast
