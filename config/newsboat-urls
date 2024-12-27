@@ -11,8 +11,7 @@ https://hnrss.org/frontpage?points=75 "~HN Front" dev
 http://rss.slashdot.org/Slashdot/slashdotLinux "~Dev - Slashdot - Linux" dev
 https://www.cyberciti.com/atom/atom.xml "~Dev - NixCraft" dev
 http://rss.slashdot.org/Slashdot/slashdotDevelopers "~Dev - Slashdot - Dev" dev
-https://kubernetes.io/feed.xml "~Dev - Kubernetes Blog" dev
-https://www.reddit.com/r/hackintosh/top/.rss?sort=top&t=day&limit=6 "~Reddit - Hackintosh" dev
+https://www.reddit.com/r/selfhosted/top/.rss?sort=top&t=day&limit=6 "~Reddit - Self Hosted" dev
 https://www.reddit.com/r/homelab/top/.rss?sort=top&t=day&limit=6 "~Reddit - Homelab" dev
 https://www.reddit.com/r/homelabsales/top/.rss?sort=top&t=day&limit=6 "~Reddit - Homelab Sales" dev
 https://www.reddit.com/r/ObsidianMD/top/.rss?sort=top&t=day&limit=6 "~Reddit - Obsidian" dev
@@ -47,7 +46,8 @@ https://changelog.com/podcast/feed "~Podcast - Changelog" podcast
 https://feeds.buzzsprout.com/2105116.rss "~Podcast - Cmd+Shift+Left" podcast
 https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ "~Podcast - Joe Rogan" podcast
 https://www.youtube.com/feeds/videos.xml?channel_id=UCSHZKyawb77ixDdsGog4iWA "~Podcast - Lex Fridman" podcast
-https://www.youtube.com/feeds/videos.xml?channel_id=UCl9StMQ79LtEvlrskzjoYbQ "~Podcast - Closer to Truth" podcast
+https://www.youtube.com/feeds/videos.xml?channel_id=UCk2U-Oqn7RXf-ydPqfSxG5g "~Podcast - Mel Robbins" podcast
+https://www.youtube.com/feeds/videos.xml?channel_id=UCb3AWCFuxotrXmgqUHQdwyg "~Podcast - 10% Happier" podcast
 https://softwareengineeringdaily.com/category/podcast/feed "~Podcast - Software Engineering Daily" podcast
 https://feeds.simplecast.com/L9810DOa "~Podcast - Signals and Threads" podcast
 https://feeds.transistor.fm/on-the-metal-0294649e-ec23-4eab-975a-9eb13fd94e06 "~Podcast - On the Metal" podcast
@@ -55,6 +55,10 @@ https://link.chtbl.com/corecursive?id=corecursive&platform=rss "~Podcast - CoRec
 https://anchor.fm/s/174cb1b8/podcast/rss "~Podcast - MLOps" podcast
 https://www.youtube.com/feeds/videos.xml?channel_id=UCfuj1MM5p37CRzWYPv_PsWA "~Podcast - CodeTalks" podcast
 https://www.youtube.com/feeds/videos.xml?channel_id=UCmYAQDZIQGm_kPvemBc_qwg "~Podcast - DevConfs" podcast
+https://www.youtube.com/feeds/videos.xml?channel_id=UCe3e_jup9vZsAD1keIkZ51A "~Podcast - Can I Vibe with Y'all" podcast
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2D2CMWXMOVWx7giW1n3LIg "~Podcast - Huberman Lab" podcast
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbk_QsfaFZG6PdQeCvaYXJQ "~Podcast - Jay Shetty - On Purpose" podcast
+https://www.youtube.com/feeds/videos.xml?channel_id=UCAZ1a2a26kcwJiomdJR8N0g "~Podcast - Career Coach" podcast
 
 
 # Astrum
@@ -65,8 +69,6 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UC-AQKm7HUNMmxjdS371MSwg ! y
 https://www.youtube.com/feeds/videos.xml?channel_id=UC176GAQozKKjhz62H8u9vQQ ! yt
 # Mustard
 https://www.youtube.com/feeds/videos.xml?channel_id=UC1ZBQ-F-yktYD4m5AzM6pww ! yt
-# Imperial War Museums
-https://www.youtube.com/feeds/videos.xml?channel_id=UC3uAjWoLZ4bSi6qI9SjALxA ! yt
 # ColdFusion
 https://www.youtube.com/feeds/videos.xml?channel_id=UC4QZ_LsYcvcq7qOsOhpAX4A ! yt
 # System Design Fight Club
@@ -79,10 +81,6 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UC6WD1VImCVeOuNccuqDzAdA ! y
 https://www.youtube.com/feeds/videos.xml?channel_id=UC7_gcs09iThXybpVgjHZ_7g ! yt
 # Timeline - World History Documentaries
 https://www.youtube.com/feeds/videos.xml?channel_id=UC88lvyJe7aHZmcvzvubDFRg ! yt
-# Patrick Boyle
-https://www.youtube.com/feeds/videos.xml?channel_id=UCASM0cgfkJxQ1ICmRilfHLw ! yt
-# Chyrosran22
-https://www.youtube.com/feeds/videos.xml?channel_id=UCD0y51PJfvkZNe3y3FR5riw ! yt
 # SEA
 https://www.youtube.com/feeds/videos.xml?channel_id=UCG9ShGbASoiwHwFcLcAh9EA ! yt
 # Veritasium
