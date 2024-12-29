@@ -44,7 +44,6 @@ https://access.acast.com/rss/c939f8d1-c4bc-478e-8bb9-e5343f9a7ab5/default "~Podc
 https://changelog.com/gotime/feed "~Podcast - Go Time" podcast
 https://changelog.com/podcast/feed "~Podcast - Changelog" podcast
 https://feeds.buzzsprout.com/2105116.rss "~Podcast - Cmd+Shift+Left" podcast
-https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ "~Podcast - Joe Rogan" podcast
 https://www.youtube.com/feeds/videos.xml?channel_id=UCSHZKyawb77ixDdsGog4iWA "~Podcast - Lex Fridman" podcast
 https://www.youtube.com/feeds/videos.xml?channel_id=UCk2U-Oqn7RXf-ydPqfSxG5g "~Podcast - Mel Robbins" podcast
 https://www.youtube.com/feeds/videos.xml?channel_id=UCb3AWCFuxotrXmgqUHQdwyg "~Podcast - 10% Happier" podcast
@@ -63,12 +62,8 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCAZ1a2a26kcwJiomdJR8N0g "~P
 
 # Astrum
 https://www.youtube.com/feeds/videos.xml?channel_id=UC-9b7aDP6ZN0coj9-xFnrtw ! yt
-# Channel 5 with Andrew Callaghan
-https://www.youtube.com/feeds/videos.xml?channel_id=UC-AQKm7HUNMmxjdS371MSwg ! yt
 # Real Science
 https://www.youtube.com/feeds/videos.xml?channel_id=UC176GAQozKKjhz62H8u9vQQ ! yt
-# Mustard
-https://www.youtube.com/feeds/videos.xml?channel_id=UC1ZBQ-F-yktYD4m5AzM6pww ! yt
 # ColdFusion
 https://www.youtube.com/feeds/videos.xml?channel_id=UC4QZ_LsYcvcq7qOsOhpAX4A ! yt
 # System Design Fight Club
@@ -113,12 +108,6 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCgY3bHW4qHKq9aC4i3nO-0g ! y
 https://www.youtube.com/feeds/videos.xml?channel_id=UCnSFlVqRyNfIJDsmpkcY57w ! yt
 # The Canvas
 https://www.youtube.com/feeds/videos.xml?channel_id=UCqTHx0ObkFZ97KO2SWUuz9w ! yt
-# Horses
-https://www.youtube.com/feeds/videos.xml?channel_id=UCrx2zrPjhGRi9TwszZiLwEg ! yt
-# Royal Armouries
-https://www.youtube.com/feeds/videos.xml?channel_id=UCsMX-XuiEkBi4-GDrYuniWg ! yt
-# Kurzgesagt – In a Nutshell
-https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q ! yt
 # GOTO Conferences
 https://www.youtube.com/feeds/videos.xml?channel_id=UCs_tLP3AiwYKwdUHpltJPuA ! yt
 # TED-Ed
@@ -135,3 +124,31 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCgyeJxD05YnoDquRMNBfBqw ! y
 https://www.youtube.com/feeds/videos.xml?channel_id=UC3ScyryU9Oy9Wse3a8OAmYQ ! yt
 # StarTalk
 https://www.youtube.com/feeds/videos.xml?channel_id=UCqoAEDirJPjEUFcF2FklnBA ! yt
+# Lil Dicky
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8rVJyj4zE0S9-sccMLifIA ! yt
+# Chill Melodies
+https://www.youtube.com/feeds/videos.xml?channel_id=UCh_paGw9pf9RL79FzRsR1VQ ! yt
+# ChillAF
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6vAEm6jrb8w4jXxVX_v9TQ ! yt
+# Daft Punk
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_kRDKYrUlrbtrSiyu5Tflg ! yt
+# Safaraa
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZ27ncrndUW7IB1Tu2mApTw ! yt
+# Mr. Starry
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJ4YUi-7NJLhiuKfT5_8yHg ! yt
+# Formula 1
+https://www.youtube.com/feeds/videos.xml?channel_id=UCB_qr75-ydFVKSF9Dmo6izg ! yt
+# Rkstr
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHnE9NodOn_dguyg5_yZXwQ ! yt
+# NPR Music
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A ! yt
+# Jocko Official
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkqcY4CAuBFNFho6JgygCnA ! yt
+# Charisma on Demand
+https://www.youtube.com/feeds/videos.xml?channel_id=UCU_W0oE_ock8bWKjALiGs8Q ! yt
+# Mr. Build It
+https://www.youtube.com/feeds/videos.xml?channel_id=UCziz6FiCnkyQ810X7qXFMZw ! yt
+# Dad How Do I
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNepEAWZH0TBu7dkxIbluDw ! yt
+# Tutorial Linux
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvA_wgsX6eFAOXI8Rbg_WiQ ! yt
