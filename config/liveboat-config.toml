@@ -4,7 +4,7 @@
 # hosted as default page for the user 
 # (eg <username>.github.io), in that case it should be
 # set to '/'
-site_path = "/liveboat/"
+site_path = "/"
 # Title of the site
 title = "Q Boat"
 # Maximum number of days for which Liveboat will include
