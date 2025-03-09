@@ -8,18 +8,24 @@
     ":rebaseStalePrs",
     ":disableRateLimiting"
   ],
-  "ignorePaths": ["docs/"],
+  "ignorePaths": [
+    "docs/"
+  ],
   "timezone": "America/Chicago",
   "assignees": [
     "tquizzle"
   ],
-   "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
-   "packageRules": [
+  "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
+  "packageRules": [
     {
-      "matchDatasources": ["docker"],
+      "matchDatasources": [
+        "docker"
+      ],
       "minimumReleaseAge": "1 day",
-      "matchPackagePatterns": ["*"],
-      "matchUpdateTypes": ["minor", "patch"],
+      "matchUpdateTypes": [
+        "minor",
+        "patch"
+      ],
       "groupName": "all non-major dependencies",
       "groupSlug": "all-minor-patch",
       "automerge": true,
@@ -28,6 +34,7 @@
         "schedule:weekends"
       ],
       "matchPackageNames": [
+        "*",
         "*"
       ]
     }
