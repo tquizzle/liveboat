@@ -45,6 +45,7 @@ jobs:
         run: |
           git config --local user.email "liveboat-builder@github.com"
           git config --local user.name "liveboat-feed-builder"
+          git config --local core.longpaths true
         shell: bash
 
       - name: Cleanup last build
